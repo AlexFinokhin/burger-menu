@@ -163,7 +163,7 @@ button:hover {
 }
 
 .why {
-  background-image: url(./images/whybg.png);
+  background-image: url("../images/whybg.png");
   background-position: top center;
   background-size: initial;
   background-repeat: no-repeat;
@@ -196,7 +196,7 @@ button:hover {
 }
 
 .products {
-  background-image: url(./images/burgersbg.png);
+  background-image: url("../images/burgersbg.png");
   background-position: top center;
   background-size: 1400px;
   background-repeat: repeat-y;
@@ -269,7 +269,7 @@ button:hover {
 }
 
 .order {
-  background-image: url(./images/orderbg.png);
+  background-image: url("../images/orderbg.png");
   background-position: top center;
   /* background-size: 1400px; */
   background-repeat: no-repeat;
