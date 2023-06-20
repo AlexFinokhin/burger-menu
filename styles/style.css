@@ -164,6 +164,7 @@ button:hover {
 
 .why {
   background-image: url("../images/whybg.png");
+
   background-position: top center;
   background-size: initial;
   background-repeat: no-repeat;
@@ -360,7 +361,9 @@ button:hover {
 }
 
 @media screen and (max-width: 1225px) {
-  .main, .products, .order {
+  .main,
+  .products,
+  .order {
     background: none;
   }
 
@@ -385,7 +388,8 @@ button:hover {
     flex-basis: 100%;
   }
 
-  .menu ul { /*там другой класс*/
+  .menu ul {
+    /*там другой класс*/
     justify-content: space-between;
   }
 
