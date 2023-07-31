@@ -361,9 +361,10 @@ button:hover {
 }
 
 @media screen and (max-width: 1225px) {
+
   .main,
   .products,
-  .order {
+  .order { 
     background: none;
   }
 
